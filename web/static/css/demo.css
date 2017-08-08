@@ -1,0 +1,24 @@
+body{ text-align:center}
+.title1 {
+    color: rgb(232, 230, 230);
+    font-size: 30px;
+}
+
+.divtop {
+    height: 400px;
+    background-image: url("../img/toppicture.png");
+    margin-top: 0px;
+}
+
+.div1 {
+    width: 400px;
+    height: 150px;
+    background-image: url("../img/gtr.jpg");
+    top:50%;
+    margin:0 auto;
+/*    display: none;*/
+}
+
+.div2 {
+    margin-top: auto;
+}
