@@ -16,7 +16,7 @@ body{ text-align:center}
     background-image: url("../img/gtr.jpg");
     top:50%;
     margin:0 auto;
-/*    display: none;*/
+    display: none;
 }
 
 .div2 {

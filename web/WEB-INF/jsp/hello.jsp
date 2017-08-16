@@ -41,18 +41,18 @@
 <div id="LoopDiv">
     <input id="S_Num" type="hidden" value="8" />
     <div id="starsIF" class="imageflow">
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
-        <img src="../../static/img/gtr.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG_20160730_132419.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG_20160730_151656.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG_20160730_151853.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160726104122.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160726104647.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160726130932.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160730103842.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160730105947.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160730130928.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160730151746.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/IMG20160731135519.jpg" longdesc="#" width="280" height="300" alt="Picture" />
+        <img src="../../static/img/MTXX_20160715211543.jpg" longdesc="#" width="280" height="300" alt="Picture" />
     </div>
 </div>
 <div class="clear"></div>
